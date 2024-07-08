@@ -14,7 +14,7 @@ const Footer = () => {
       </div>
       <div className="footer-section">
         <p>Desarrollado por: <span className="highlight">SoftInCraft</span></p>
-        <p>Contacto: <a href="mailto:support@transcribeme.com">support@transcribeme.com</a></p>
+        <p>Contacto: <a href="mailto:SoftInCraft@hotmail.com">SoftInCraft@hotmail.com</a></p>
       </div>
       <div className="footer-section">
         <p>Redes sociales:</p>
