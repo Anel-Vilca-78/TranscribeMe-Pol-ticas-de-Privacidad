@@ -1,0 +1,32 @@
+/* src/components/Footer.css */
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    background-color: #e0f0ff;
+    border-top: 2px solid #ccc;
+    font-size: 14px;
+    color: rgb(0, 0, 0);
+}
+
+.footer-section {
+    text-align: center;
+}
+
+.footer-section h4 {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.highlight {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.social-icon {
+    width: 24px;
+    height: 24px;
+    margin: 0 5px;
+}
