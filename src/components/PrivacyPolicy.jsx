@@ -21,7 +21,7 @@ const PrivacyPolicy = () => {
           <tbody>
             <tr>
               <td><strong>¿Quiénes somos?</strong></td>
-              <td>[Nombre completo del responsable, si se trata de una persona física, o denominación o razón social en caso de ser una persona moral. Se sugiere, en su caso, incluir el nombre comercial], con domicilio en [indicar calle, número, colonia, ciudad, municipio o delegación, código postal y entidad federativa del domicilio para oír y recibir notificaciones], es el responsable del uso y protección de sus datos personales, y al respecto le informamos lo siguiente:</td>
+              <td>SoftInCraft, con domicilio en Av. Central S/N Colonia Solidaridad, 30470, VILLAFLORES, CHIS. es el responsable del uso y protección de sus datos personales, y al respecto le informamos lo siguiente:</td>
             </tr>
             <tr>
               <td><strong>¿Para qué fines utilizaremos sus datos personales?</strong></td>
